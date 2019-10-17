@@ -1,0 +1,36 @@
+明天就是新工作的第一天了，我又来到了这个充满了回忆的湾区，一时间有点感慨。从去年暑期实习结束后就一直忙其他事情也没有好好写个帖子总结一下，看到最近身边有很多小伙伴拿到了亚麻实习，也有很多学弟学妹问我如何准备实习，就想好好写个帖子并且列一些经验和教训。
+
+我是18年暑假在湾区的亚麻实习，中途过程不是很smooth,一度压力大到吃不下饭买了一箱soylent续命。很多次想中途放弃。但最后还是幸运的拿了return。一句话总结就是这段实习经历是我18年最黑暗的一段时光，也同时是最美好的一段时光。
+
+先说人。我们组的人都非常非常厉害，我在学校偶尔还能carry一下project来到我们组就是最弱鸡的存在。而且我们组的人都对我非常好，能感觉出来他们都很希望我拿return并且总是鼓励我。我有两个mentor,一个是印度小姐姐（以下简称大mentor),一个是国人小哥哥（以下简称小mentor). 我manager是个德国人。还有接下来要提的一个胖胖的偶尔为难我的SDE III印度人（以下简称大土豆），一个帮我很多在tensor flow组工作的SDE II美国人（以下简称tf boy)。
+
+小mentor是对我最上心的，也是我最感谢的人。不仅给我技术上的指导，周末还会带我去social让我放松心情。TF boy也多次陪我加班到9、10点帮我解决bug然后再把我送回去。大mentor也是对我有求必应，严肃的manager在最后我的hiring会议上也对bar raiser不停的夸我。而且亚麻的女生实习生还会配有心理辅导mentor(是的girls only)。总之，周围的人几乎全部都是正能量的存在，我的压力100% 来源于我的project.
+
+再说最重要的，project。我一共有三个project。遇到的困难也主要是三个：1、时间紧任务重。2、中期面临大土豆的指手画脚差点推翻重做（即back and forth)。3、被别的组block。我在其中学到的血泪经验教训会在后面具体列出来。
+
+其次再说一下政治斗争。我们大组是政治斗争非常严重的组，以至于VP曾经开全院会议说“We shouldn’t fight with each other!”。这也是我之后不想回亚麻最主要的原因。但幸运的一点是，互相fight的A B阵营对我都很好，确切的来说，是对所有intern都很好。因为大家都觉得intern人畜无害并且都很cute(（。两边阵营都帮助我很多并且关心我。所以即将入职的intern不用担心，即使你们组内斗严重你们也不会被卷入。Interns are safe!
+
+接下来就是对incoming interns想说的，首选恭喜你们，无论结果如何，你们的简历里已经添了光鲜亮丽的一笔，以后拿面试不用愁了。然后具体列一下实习中需要注意的和需要避免的：
+
+1.忌back and forth! 忌back and forth! 忌back and forth!
+我知道的很多没有拿到return的同学原因基本都是project没做完。没做完的原因基本都是在项目做到一半的过程中遇到了 严重的错误/强力的干扰 从而把之前做完的推翻然后重来。 这就是我们口中所谓的“被别人坑了”，不是intern不努力，而且之前的努力白白浪费了。 一遇到这种情况，return就很危险了。
+为了预防这种情况发生，在之前design的时候，下足功夫。其实design的部分不应该是intern做的，而是你的mentor做的。抓住你的mentor，和其他跟你的project相关的人，在design meeting的时候好好讨论。 然后达成commitment! ! 一旦达成commitment,之后有人再跳出来想要你进行大改动的时候。你就可以有底气的说“Sorry, 我们之前已经决定好要这么做了”。  我就是中期之后大土豆忽然跳出来要我换一种方法，意味着我之前做的基本都废掉了，也是我mentor 挡在我前面了，“不好意思，我们就这么做”。 （感激（（
+
+2. 学会 say no
+当你发一个CR之后，你会收到100条comments. “我觉得你这里可以换种方法”“我觉得我们需要增加一些feature”, “我们这里需要improvement”。学会say no! 你的实习时间就12周，你的项目scope就是画个鸡蛋，把他们的建议都采纳了，你的scope已经变成画只母鸡了，你还做的完吗？
+这时候你就说“Thank you for your advice! But I really have limited time and I have other tasks that are urgent/ have higher priority. I will definitely put your advice into backlist and look back to it when I finish xxx....” 然后他们的建议就放在backlist了，然后就再也没有然后了。 在未来，这些就变成下一个intern的任务了。
+. check 1point3acres for more.
+3. 学会push别人
+我做的第三个PJ生死权在德国的一个组里，我为了跟他们搭上话晚上定一个3点钟闹钟再定一个5点钟闹钟。我那时候时间已经很紧了，但总是被他们block。于是就不停push他们。我push不动就去叫我mentor push, 我mentor push不动我就CC manager。 到最后实习结束我push别人的能力得到极大提升，以至于我在我身上看到了日后当manager的潜力（大雾）。
+
+4. 搞好跟manager的关系
+不需要过多social或者任何flattery words。你只需要做一个听话、努力有朝气的intern就好了。关键是，respond你的manager一定要及时，他交给你的任务火速完成，让他看到你的行动力。多跟他update你的情况，每次1 on 1都问他“ Am I on track of the return offer？”。是的，每次都问，don’t be shy。他会给你关键的feedback,之前我manager会回回答“需要看你项目完成情况”并且给我一些建议，到了后期他已经会慈祥的看着我说“YES”。
+
+暂时就想到这些，以后可能会有补充。当然1000个intern眼里有1000个亚麻实习经历，这个就是我的真实感受。祝每位实习生都有顺利又丰富的实习经历！. 1point3acres
+
+补充内容 (2019-4-1 10:49):
+关于say no。亚麻家13条军规里面就有一条“Have Backbone”. 对不合理/不重要的要求要勇敢say no。似乎就是因为后期我“say no”太多次（主要是实在没时间了），给我写review 的TF boy还称赞我有“backbone”.. From 1point 3acres bbs
+
+补充内容 (2019-4-2 13:00):
+5. show visibility
+我们国人写代码能力很强，就是太爱闷头写代码了！ 我们要把自己做好的work展示出来，让team看到。并且在team meeting的时候争取多参与讨论（即使讨论的不是你的pj），多刷刷存在感
