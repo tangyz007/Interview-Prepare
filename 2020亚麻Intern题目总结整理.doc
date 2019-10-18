@@ -1,0 +1,20 @@
+三轮OA，OA1 7debug， OA2 2coding+性格测试  OA3应该是reasoning
+
+1. sortArray: >改成< 2. countOccurence  Missing i++ at the end of while loop-baidu 1point3acres
+3. digitCount: 這題用temp存一下原本的num 然後return的地方改成用temp
+4.  sortArray: >改成< ( 和第一题一样，都是sort的顺序反了)
+5. Even Odd pattern. check 1point3acres for more.
+print += 2; //原本的code没有把这行放进for 循环里
+6. reverse array: arr[len-1] 改成 arr[len-i-1], 循环结束前去掉 len+=1;
+7. printPattern ‍‌‌‌‍‍‍‌‍‍‍‌‌‍‍‌‌‌‍
+要求print
+11
+1111
+111111
+- For循环没有{}
+- System.out.print((print));  改成 System.out.print((print + “”));
+
+总结：1. BQ要好好准备，写好稿子了再脱稿，尽量不要有背的感觉。
+          2. coding：和面试官交流很重要，平常做题之余，抽点时间练习口述思路；同时多模拟随机抽题，进行叙述答题思路和复杂度分析的练习。
+          3.白板书写，没有compile和test case，平常太依赖test case来测试边界，这点也要改进。
+如果挂了冷冻期为6个月。
