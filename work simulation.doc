@@ -1,0 +1,25 @@
+A Work Simulation problem presents a case simulating the day to day work scenario and ask you to make a choice among a few options - for example, meeting deadline vs. quality of product, your own judgement vs. what your co-worker says, etc.
+
+You are given emails/chat histories/videos of team meeting. These communicate to you PROBLEMS and ask you QUESTIONS. You have to either give a response or rate possible responses on a scale of effectiveness.
+
+Example Question: Hey, we have to do a project. We only have 2 weeks to do it but it will take 4 weeks of work. What do we do now?
+
+A. Scale down the problem?
+
+B. Hire more people/ Shift people from another team?
+
+C. Reduce the complexity of the code to run more test cases?
+
+D. Hire another company to do part of the task?
+
+There is also a bit of code review or log review to do, depending on the choices made. Your choices lead to different paths to address the problem. You’ll be shown different response from your team members.
+
+For example in a question to fix server fails, if you choose ‘check internal test report’. A video is gonna pop up that a team member claims no internal error was found as in the recent run, which gets you to the next question - believe in him or insist.
+
+Tips
+
+There is sufficient time in the session. Do your best to read thru the emails/chat history. Some may seem irrelevant for the moment but provide helpful information to later problems.
+
+[Most of the cases] Choose user experience over deadline and deadline over other factors.
+
+Hope this helps.
